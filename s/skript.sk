@@ -1,0 +1,4 @@
+#Language = Skript from bukkit plugin Skirpt
+command /hello:
+  trigger:
+    send "Hello World"
